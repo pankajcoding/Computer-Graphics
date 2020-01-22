@@ -1,0 +1,7 @@
+Enter co-ordinates of second point------------------------------: <svg width="300" height="300" viewBox = "0 0 30 30"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+<title>Bar</title>
+<rect x="1" y="1" height="28" width="28" style="fill:none;stroke:black;stroke-width:1"/>
+here now<line x1="1" y1="1" x2="2" y2="2"  style="stroke:rgb(255,0,0);stroke-width:2"/>
+Enter co-ordinates of first point: 1122
+ points: : 1 1
+ points: : 2 2</svg>
